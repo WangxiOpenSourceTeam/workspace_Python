@@ -6,3 +6,4 @@ Python案例集锦
 1. [HelloWorld](./base/HelloWorld.py)
 2. [两个数字求和](./base/Sum.py)
 3. [开平方根](./base/Sqrt.py)
+4. [生成随机数](./base/randint.py)
