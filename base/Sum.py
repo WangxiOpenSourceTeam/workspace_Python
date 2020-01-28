@@ -1,8 +1,5 @@
 # -*- coding: UTF-8 -*-
 
-# Filename : test.py
-# author by : www.runoob.com
-
 # 用户输入数字
 num1 = input('输入第一个数字：')
 num2 = input('输入第二个数字：')
