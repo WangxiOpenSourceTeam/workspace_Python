@@ -11,3 +11,4 @@ Python案例集锦
 6. [阿姆斯特朗数](./base/Armstrong.py)
 7. [进制转换](./base/Scale.py)
 8. [ASCII码转换](./base/ASCII.py)
+9. [简易计算器](./base/Calc.py)
