@@ -9,3 +9,4 @@ Python案例集锦
 4. [生成随机数](./base/randint.py)
 5. [斐波那契数列](./base/Fibonacci.py)
 6. [阿姆斯特朗数](./base/Armstrong.py)
+7. [进制转换](./base/Scale.py)
