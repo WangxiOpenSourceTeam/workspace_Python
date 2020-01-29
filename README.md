@@ -12,3 +12,4 @@ Python案例集锦
 7. [进制转换](./base/Scale.py)
 8. [ASCII码转换](./base/ASCII.py)
 9. [简易计算器](./base/Calc.py)
+10. [日历表](./base/Calendar.py)
