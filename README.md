@@ -26,3 +26,7 @@ Python案例集锦
 ### [桌面客户端](./graphiacl)
 
 1. [HelloWorld](./graphiacl/src/HelloWorld/HelloWorld.py)
+
+### [三维建模](./VPython)
+
+1. [球体](./VPython/src/ball.py)
