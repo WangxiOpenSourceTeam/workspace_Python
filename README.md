@@ -6,7 +6,7 @@ Python案例集锦
 1. [HelloWorld](./base/HelloWorld.py)
 2. [两个数字求和](./base/Sum.py)
 3. [开平方根](./base/Sqrt.py)
-4. [生成随机数](./base/randint.py)
+4. [生成随机数](./base/Randint.py)
 5. [斐波那契数列](./base/Fibonacci.py)
 6. [阿姆斯特朗数](./base/Armstrong.py)
 7. [进制转换](./base/Scale.py)
