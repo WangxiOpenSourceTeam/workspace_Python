@@ -21,4 +21,4 @@ Python案例集锦
 
 ### [Matplotlib](./Matplotlib)
 
-1.[axes](./Matplotlib/src/axes.py)
+1. [axes](./Matplotlib/src/axes.py)
